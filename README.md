@@ -1,6 +1,6 @@
 # Mouses y Keyboards
 
-Demo de un Sistema de classification de ratones y teclados creado con [TeacheableMachine](https://teachablemachine.withgoogle.com/) de Google.
+Demo de un Sistema de classification de ratones y teclados creado con [TeachableMachine](https://teachablemachine.withgoogle.com/) de Google.
 ## 0. Objetivo
 
 Generar un demo de un sistema basico de clasificacion de imagenes
